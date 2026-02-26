@@ -12,7 +12,7 @@
 <tr>
 <td align="center">
 <img src="https://github.com/TheRealCarrotty/fastfetch-config/blob/main/UbuntuScreenshot.png" width="400"/>
-<br><em>Linux</em>
+<br><em>Ubuntu</em>
 </td>
 </tr>
 </table>
