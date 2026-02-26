@@ -2,7 +2,7 @@
 
 # ⚡ Fastfetch Config
 
-*Clean, minimal system information display for your terminal*
+*Original by dacrab!*
 
 </div>
 
